@@ -42,4 +42,6 @@ by runing
 nats reply --echo "function.on.topic"
 ```
 
+and `go run yoruapp.main`
+
 
